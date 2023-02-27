@@ -7,7 +7,7 @@
     --fonte-padrao: 'inter';
 }
 
-#body {
+body {
     margin: 0px;
     padding: 0px; 
     background: linear-gradient(180deg, rgba(12, 112, 242, 0.5)19.91%, rgba(12, 112, 242, 0)24.84%), #303030;
@@ -64,7 +64,7 @@ section {
     margin-bottom: 100px;
 }
 header {
-    color: gray;
+    color: white;
     font-family: var(--fonte-padrao);
 }
 header h1{
@@ -88,7 +88,7 @@ header .invert {
 /* Formulário*/
 
 form {
-    color: gray;
+    color: white;
     font-family: var(--fonte-padrao);
     font-size: 30px;
     font-weight: 600;
